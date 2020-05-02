@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281021913876",
+    "firebase_url": "https://pindai-teks.firebaseio.com",
+    "project_id": "pindai-teks",
+    "storage_bucket": "pindai-teks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281021913876:android:f9dc03566b9b8b86324001",
+        "android_client_info": {
+          "package_name": "com.example.textrecognize2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281021913876-glnj096m7d81o77j8gt8j9pbljfmpehd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textrecognize2",
+            "certificate_hash": "ada9d30600809f3a53afa0499ad3366e81f236aa"
+          }
+        },
+        {
+          "client_id": "281021913876-am0os5d7ulg4ffsb5ptod5gek7q4hglo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0asi1NV7LWUBhgwRaZuNmjb7Qu6qvpGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281021913876-am0os5d7ulg4ffsb5ptod5gek7q4hglo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
